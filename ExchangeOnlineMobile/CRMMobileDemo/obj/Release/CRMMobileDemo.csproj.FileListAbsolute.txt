@@ -1,0 +1,127 @@
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\CRMMobileDemo.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\CRMMobileDemo.pdb
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\CustomCRMControls.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Client.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.Design.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.Design.Skins.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.Themes.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Design.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Extended.Design.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Extended.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Office.Design.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Office.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Professional.Design.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Professional.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Themes.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Server.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Kripto.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.xml
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.xml
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Extended.xml
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Professional.xml
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\de-AT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\de-DE\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\es-GT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\fa-IR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\fr-CA\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\he-IL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\is-IS\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\ja-JP\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\nl-NL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\pl-PL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\pt-BR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\pt-PT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\sv-SE\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\tr-TR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\bin\zh-CHS\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iosForm.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CRMiOSTheme.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CRMOcean.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.Empty.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.ForgotPassword.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.LoginForm.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.MainForm.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.Mungesat.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.NjoftimeMain.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.NjoftimeMesazhi.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.OrariDetail.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.OrariDitet.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.OrariOret.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.Vleresimet.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.MessageDialogForm.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.dll
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.pdb
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iosForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CRMiOSTheme.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CRMOcean.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.MessageDialogForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\CRMMobileDemo.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\CRMMobileDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\CustomCRMControls.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.Design.Skins.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.Themes.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Extended.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Extended.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Office.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Office.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Professional.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Professional.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Themes.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Server.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Common.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Extended.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\Gizmox.WebGUI.Forms.Professional.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\de-AT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\de-DE\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\es-GT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\fa-IR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\fr-CA\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\he-IL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\is-IS\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\ja-JP\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\nl-NL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\pl-PL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\pt-BR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\pt-PT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\sv-SE\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\tr-TR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\zh-CHS\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.MainMenuPanel.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.Kurset.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.ShitjeBlerje.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.Import.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.Arkat.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.MonedhatGjendje.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.TransaksionGjendje.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.LabelBox.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Data.DataSetExtensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Drawing.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.EnterpriseServices.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Web.ApplicationServices.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Web.DynamicData.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Web.Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Web.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Web.Services.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Windows.Forms.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Xml.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\bin\System.Xml.Linq.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnlineMobile\CRMMobileDemo\obj\Release\CRMMobileDemo.iOS.CustomControlsMC.DropDownControl.resources

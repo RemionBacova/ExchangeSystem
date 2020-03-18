@@ -1,0 +1,109 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\ExchangeOnline.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\ExchangeOnline.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Forms.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Server.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\Kripto.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\System.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\System.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\System.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\System.Drawing.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\System.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\System.Windows.Forms.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\System.Xml.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Forms.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Common.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\de-AT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\de-DE\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\es-GT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\fa-IR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\fr-CA\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\he-IL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\is-IS\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\ja-JP\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\nl-NL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\pl-PL\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\pt-BR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\pt-PT\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\sv-SE\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\tr-TR\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\bin\zh-CHS\Gizmox.WebGUI.Forms.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.About.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Arkat.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Cashier.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.ImportFrom.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.MonedhaEcuria.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.MonedhaHistoriku.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.PrintForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Raportet.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.RaportetPeriudha.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.SpecialTransactions.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Currencies.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.ExchangeRate.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Faturat.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.NdryshoTransaksion.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.PrerjetManage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Prjerjet.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.UserArka.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Users.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.csprojResolveAssemblyReference.cache
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\ExchangeOnline.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\ExchangeOnline.pdb
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Common.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Forms.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Server.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\System.Configuration.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\System.Data.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\System.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\System.Drawing.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\System.Web.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\System.Windows.Forms.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\System.Xml.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Forms.xml
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\Gizmox.WebGUI.Common.xml
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\de-AT\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\de-DE\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\es-GT\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\fa-IR\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\fr-CA\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\he-IL\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\is-IS\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\ja-JP\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\nl-NL\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\pl-PL\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\pt-BR\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\pt-PT\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\sv-SE\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\tr-TR\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\bin\zh-CHS\Gizmox.WebGUI.Forms.resources.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.csprojResolveAssemblyReference.cache
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.About.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Arkat.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Cashier.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.ImportFrom.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.MonedhaEcuria.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.MonedhaHistoriku.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.PrintForm.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Raportet.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.RaportetPeriudha.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.SpecialTransactions.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Currencies.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.ExchangeRate.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Faturat.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Form1.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Login.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.NdryshoTransaksion.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.PrerjetManage.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Prjerjet.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Properties.Resources.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.UserArka.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.Users.resources
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.csproj.GenerateResource.Cache
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.dll
+D:\Projekt remioni\Exchange Desktop & Online\ExchangeOnline\ExchangeOnline\obj\Debug\ExchangeOnline.pdb

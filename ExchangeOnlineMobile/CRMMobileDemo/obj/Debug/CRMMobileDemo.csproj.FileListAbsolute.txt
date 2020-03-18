@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iosForm.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.Empty.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.ForgotPassword.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.LoginForm.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.MainForm.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.NjoftimeMain.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.NjoftimeMesazhi.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.OrariDetail.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.OrariDitet.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.OrariOret.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.CustomControlsMC.Vleresimet.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.iOS.MessageDialogForm.resources
+C:\Users\Administrator\Desktop\experimentMobile\CRMMobileDemo\obj\Debug\CRMMobileDemo.csproj.GenerateResource.Cache

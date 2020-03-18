@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Administrator\Desktop\ExchangeOnline" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Gizmox.WebGUI.Server.dll" publishTime="07/16/2012 18:27:36" />
+    <file relUrl="Resources/Images/arkat_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="Resources/Images/cash-register.png" publishTime="08/16/2013 13:44:15" />
+    <file relUrl="bin/Gizmox.WebGUI.Common.dll" publishTime="07/16/2012 18:27:20" />
+    <file relUrl="bin/System.Drawing.dll" publishTime="03/18/2010 18:31:26" />
+    <file relUrl="bin/ExchangeOnline.dll" publishTime="09/06/2013 16:24:20" />
+    <file relUrl="bin/System.Data.dll" publishTime="03/18/2010 18:31:26" />
+    <file relUrl="bin/Gizmox.WebGUI.Forms.xml" publishTime="07/16/2012 18:21:30" />
+    <file relUrl="Resources/Images/monedhat_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="bin/de-DE/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="Resources/Images/info.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="Readme.txt" publishTime="08/15/2013 10:28:12" />
+    <file relUrl="bin/pl-PL/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="bin/System.Configuration.dll" publishTime="03/18/2010 18:31:26" />
+    <file relUrl="bin/is-IS/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="bin/ExchangeOnline.pdb" publishTime="09/06/2013 16:24:20" />
+    <file relUrl="Resources/Images/shperndarja_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="Resources/Images/mcn_logo_web.png" publishTime="08/20/2013 16:28:27" />
+    <file relUrl="Resources/Images/gjendja_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="bin/tr-TR/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:36" />
+    <file relUrl="bin/System.Xml.dll" publishTime="03/18/2010 18:31:26" />
+    <file relUrl="bin/es-GT/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="bin/de-AT/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="Resources/Images/perdoruesit_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="bin/Gizmox.WebGUI.Common.xml" publishTime="07/16/2012 18:20:52" />
+    <file relUrl="bin/nl-NL/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="bin/System.Windows.Forms.dll" publishTime="03/18/2010 18:31:26" />
+    <file relUrl="Resources/Images/logout_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="bin/zh-CHS/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:36" />
+    <file relUrl="bin/fa-IR/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="bin/Gizmox.WebGUI.Forms.dll" publishTime="07/16/2012 18:21:32" />
+    <file relUrl="bin/he-IL/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="Resources/Images/kursi_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="Resources/Images/login_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="bin/sv-SE/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:36" />
+    <file relUrl="bin/Kripto.dll" publishTime="12/19/2012 12:43:29" />
+    <file relUrl="Resources/Images/log_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="Resources/Images/prerjet_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="bin/System.dll" publishTime="03/18/2010 18:31:26" />
+    <file relUrl="bin/pt-BR/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="Resources/Images/ikone.png" publishTime="08/16/2013 13:46:08" />
+    <file relUrl="bin/ja-JP/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="bin/fr-CA/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:34" />
+    <file relUrl="bin/pt-PT/Gizmox.WebGUI.Forms.resources.dll" publishTime="07/16/2012 18:21:36" />
+    <file relUrl="Resources/Images/info_long.png" publishTime="08/16/2013 13:43:11" />
+    <file relUrl="bin/System.Web.dll" publishTime="03/18/2010 18:31:26" />
+  </publishProfile>
+</publishData>
